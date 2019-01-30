@@ -59,3 +59,4 @@ C : Related work
 3. Accelerating the Super-Resolution Convolutional Neural Network(2016)
 4. Focal Loss for Dense Object Detection
 5. Pyramid Scene Parsing Network
+6. Roto-Translation Covariant Convolutional Networks for Medical Image Analysis
