@@ -60,3 +60,4 @@ C : Related work
 4. Focal Loss for Dense Object Detection
 5. Pyramid Scene Parsing Network
 6. Roto-Translation Covariant Convolutional Networks for Medical Image Analysis
+7. Assessment of algorithms for mitosis detection in breast cancer histopathology images（2014）
