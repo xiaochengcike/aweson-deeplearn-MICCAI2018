@@ -25,3 +25,8 @@ CD-based approaches come out the best.
 Reinhard et al. \[7] proposed a method of color normalization where the mean and standard deviation of each channel of
 the image are matched to that of the target by means of a set of linear transforms in Lab colorspace.
 
+### Method
+each image Ii is color quantized using Qct-tree quantization to generate a set of histograms of 255 color protypes
+H = {H1, H2, ..., Hk}
+
+Pixels assigned a probability greater than some threshold Tp are used to calculate the examplar color for each stain.
